@@ -11,6 +11,6 @@ jobs:
       - name: "hello-action"
         uses: ./.github/actions/hello-world
         with:
-          firstGreeting: "OctoCami"
-          secondGreeting: "Action Writer Extraordinaire"
+#           firstGreeting: "OctoCami"
+#           secondGreeting: "Action Writer Extraordinaire"
           thirdGreeting: "mnchkn"
